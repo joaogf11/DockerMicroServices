@@ -1,0 +1,29 @@
+# Node.js
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Diretórios de build
+dist/
+build/
+
+# Arquivos de configuração do VS
+.vscode/
+.idea/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Ambiente
+.env
+
+# Arquivos de teste
+coverage/
+
+# Outros
+*.log
+*.swp
